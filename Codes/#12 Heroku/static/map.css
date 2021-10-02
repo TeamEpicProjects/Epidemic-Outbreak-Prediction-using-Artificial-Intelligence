@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: white;
+}
+svg path{
+    fill: rgb(239,239,239);
+    stroke:#ccc;
+    stroke-width: .25;
+}
+svg path:hover{
+    fill:#006284;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.argentina-color{
+    fill: rgb(23,174,193);
+}
+.brazil-color{
+    fill: #B5D202;
+}
+.colombia-color{
+    fill: #FFE681;
+}
+.dominican-color{
+    fill: blueviolet;
+}
+.ecuador-color{
+    fill:#E82552 ;
+}
+.salvador-color{
+    fill:chartreuse ;
+}
+.haiti-color{
+    fill: cornflowerblue;
+}
+.mexico-color{
+    fill: #1E3968;
+}
+.nicaragua-color{
+    fill: darkorange;
+}
+.panama-color{
+    fill: #996ED7;
+}
+.us-color{
+    fill:#F4AD01;
+}.guatemala-color{
+    fill: rgb(34, 161, 178);
+}
